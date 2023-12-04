@@ -1,6 +1,8 @@
 ---
+{
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Contactos'
+            label: 'Quem Somos',
+ },
 ---
