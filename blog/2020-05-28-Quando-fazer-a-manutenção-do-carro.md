@@ -4,6 +4,7 @@ title: MDX Blog Post
 authors: [slorber]
 tags: [docusaurus]
 ---
+
 Tudo sobre a Manutenção do carro
 A manutenção do carro é, hoje, uma operação incontornável. O automóvel deve ser observado por especialistas para que se garanta o seu bom funcionamento. Só através destas revisões periódicas se torna possível perspetivar-lhe uma saúde mais duradoura.
 
