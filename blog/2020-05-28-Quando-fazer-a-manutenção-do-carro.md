@@ -1,6 +1,6 @@
 ---
 slug: mdx-blog-post
-title: MDX Blog Post
+title: Quando fazer a manutenção do carro
 authors: [slorber]
 tags: [docusaurus]
 ---
