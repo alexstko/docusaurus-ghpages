@@ -1,6 +1,6 @@
 ---
 sidebar_label: ’Quem somos’
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # Título Oficina-Louletana
