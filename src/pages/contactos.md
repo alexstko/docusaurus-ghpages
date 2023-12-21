@@ -1,4 +1,4 @@
 ---
-sidebar_label: ’contactos’
-sidebar_position: 1
+sidebar_label: ’Contactos’
+sidebar_position: 2
 ---
