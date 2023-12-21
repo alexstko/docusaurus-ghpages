@@ -1,1 +1,2 @@
 # Título Oficina-Louletana
+![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.simplusbr.com%2Foficina-mecanica-organizada%2F&psig=AOvVaw33GtvDOQBPBgH_gtL3apFP&ust=1703257630923000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCcvKPnoIMDFQAAAAAdAAAAABAI)
