@@ -1,3 +1,8 @@
+---
+sidebar_label: ’Quem somos’
+sidebar_position: 1
+---
+
 # Título Oficina-Louletana
 
 # Bem-Vindo à Oficina Automóvel "Louletana"
