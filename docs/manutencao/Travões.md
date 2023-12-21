@@ -3,7 +3,7 @@ sidebar_position: 2
 title: Serviços de Travões
 ---
 
-# Serviços de Oficina de Freios para Automóveis
+# Serviços de Travões para Automóveis
 
 As oficinas de freios desempenham um papel fundamental na manutenção e reparo dos sistemas de freios dos veículos, garantindo sua eficiência e segurança.
 
