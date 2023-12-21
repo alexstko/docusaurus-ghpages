@@ -6,6 +6,8 @@ title: Amortecedores de Automóveis
 # Amortecedores de Automóveis
  A nossa oficina oferece um serviço em amortecedores de automóveis. Estamos empenhados em oferecer serviços que garantam o conforto, estabilidade e segurança durante a condução do seu veículo.
 
+![](https://th.bing.com/th/id/R.8616d11e8e1425f71b98ceb59e562664?rik=A41bVBuLl%2b5Nmw&pid=ImgRaw&r=0)
+
 ## Nossos Serviços
 
 ### Diagnóstico de Amortecedores
