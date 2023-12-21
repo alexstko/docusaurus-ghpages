@@ -4,7 +4,7 @@ title: Serviços de Montagem e Desmontagem
 ---
 
 # Serviços de Montagem e Desmontagem de Pneus
-A  nossa oficina oferec serviços para montagem e desmontagem de pneus de automóveis. Estamos empenhados em oferecer serviços eficientes para garantir a substituição, reparação e manutenção adequada dos pneus do seu veículo.
+A  nossa oficina oferece serviços para montagem e desmontagem de pneus de automóveis. Estamos empenhados em oferecer serviços eficientes para garantir a substituição, reparação e manutenção adequada dos pneus do seu veículo.
 
 ## Nossos Serviços
 
