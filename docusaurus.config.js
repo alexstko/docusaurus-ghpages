@@ -86,7 +86,7 @@ const config = {
           },
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: '',
             position: 'left',
             label: 'Quem somos',
           },
