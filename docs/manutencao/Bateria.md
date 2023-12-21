@@ -5,7 +5,7 @@ title:  Bateria de Automóveis
 
 # Bateria de Automóveis
 
-Bem-vindo à nossa oficina especializada em baterias de automóveis. Estamos comprometidos em oferecer uma variedade de serviços para garantir o desempenho e a confiabilidade do sistema elétrico do seu veículo.
+A nossa oficina ofererce vários serviços em baterias de automóveis. Estamos comprometidos em oferecer uma variedade de serviços para garantir o desempenho e a confiabilidade do sistema elétrico do seu veículo.
 
 ## Nossos Serviços
 
