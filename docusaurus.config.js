@@ -79,8 +79,8 @@ const config = {
             label: 'Serviços',
           },
           
-          {to: '/contactos', label: 'contactos', position: 'right'},
-          {to: '/quem-somos', label: 'quem-somos', position: 'right'},
+          {to: '/contactos', label: 'Contactos', position: 'right'},
+          {to: '/quem-somos', label: 'Quem Somos', position: 'right'},
           {to: '/blog', label: 'Blog', position: 'left'},
        
           
