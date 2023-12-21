@@ -90,6 +90,7 @@ const config = {
             position: 'left',
             label: 'Quem somos',
           },
+          {to: '/quem-somos', label: 'quem-somos', position: 'left'},
           {to: '/blog', label: 'Blog', position: 'left'},
        
           {
