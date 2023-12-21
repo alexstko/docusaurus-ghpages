@@ -1,6 +1,5 @@
 ---
 sidebar_position: 1
-id: Bateria
 title: Baterias de Automóveis
 ---
 
