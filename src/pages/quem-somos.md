@@ -37,5 +37,5 @@ Estamos ansiosos para servir e cuidar do seu automóvel!
 
 Atenciosamente,
 
-Equipa MotorTech
+Equipa "Louletana"
 
