@@ -78,7 +78,18 @@ const config = {
             position: 'left',
             label: 'Serviços',
           },
-         
+          {
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
+            position: 'left',
+            label: 'Contactos',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
+            position: 'left',
+            label: 'Quem somos',
+          },
           {to: '/blog', label: 'Blog', position: 'left'},
        
           {
