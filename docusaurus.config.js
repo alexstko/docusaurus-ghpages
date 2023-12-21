@@ -84,20 +84,11 @@ const config = {
             position: 'left',
             label: 'Contactos',
           },
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Quem somos',
-          },
-          {to: '/quem-somos', label: 'quem-somos', position: 'left'},
+          {to: '/contactos', label: 'contactos', position: 'right'},
+          {to: '/quem-somos', label: 'quem-somos', position: 'right'},
           {to: '/blog', label: 'Blog', position: 'left'},
        
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
+          
         ],
       },
       footer: {
