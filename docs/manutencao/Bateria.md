@@ -2,7 +2,7 @@
 sidebar_position: 1
 title:  Bateria de Automóveis
 ---
-
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Frevistacarro.com.br%2Fentenda-como-funciona-e-como-escolher-a-bateria-do-carro%2F&psig=AOvVaw0hyHS9taFLbXYkm9FEIaA0&ust=1703260800687000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPigyIvzoIMDFQAAAAAdAAAAABAD)
 # Bateria de Automóveis
 
 A nossa oficina ofererce vários serviços em baterias de automóveis. Estamos comprometidos em oferecer uma variedade de serviços para garantir o desempenho e a confiabilidade do sistema elétrico do seu veículo.
@@ -34,3 +34,4 @@ Nosso time é composto por profissionais qualificados e dedicados a oferecer ser
 Uma bateria saudável é essencial para o funcionamento correto do seu veículo. Recomendamos manutenções regulares para garantir a confiabilidade do sistema elétrico do seu automóvel.
 
 Entre em contato conosco para agendar um diagnóstico da sua bateria ou para tirar qualquer dúvida sobre os nossos serviços. Estamos aqui para garantir que o seu veículo tenha o melhor desempenho possível.
+
