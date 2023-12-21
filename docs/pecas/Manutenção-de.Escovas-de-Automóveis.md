@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title:  Manutenção de Escovas de Automóveis
+title:  Escovas de Automóveis
 ---
 
 # Escovas de Automóveis
