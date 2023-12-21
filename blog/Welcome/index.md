@@ -5,6 +5,8 @@ title: O que é Android Auto
 ---
 # O que é Android Auto?
 
+![](https://files.tecnoblog.net/wp-content/uploads/2019/07/android-auto-1060x596.jpg)
+
 O Android Auto é o sistema automotivo do Google, que coloca a experiência Android em automóveis compatíveis. Com ele, você transmite os principais recursos do seu celular para o painel do carro, desde navegação em tempo real a players de música.
 
 Trata-se de uma alternativa a usar o próprio dispositivo móvel para receber direções em apps como Google Maps e Waze, que por conta da tela de menor tamanho (em relação ao painel) pode acabar por tirar a concentração do motorista, levando a acidentes.
