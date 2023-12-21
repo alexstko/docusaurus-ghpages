@@ -7,7 +7,7 @@ title:  Bateria de Automóveis
 
 A nossa oficina ofererce vários serviços em baterias de automóveis. Estamos comprometidos em oferecer uma variedade de serviços para garantir o desempenho e a confiabilidade do sistema elétrico do seu veículo.
 
-![](https://media.istockphoto.com/photos/mechanic-checking-car-battery-picture-id492890536?k=6&m=492890536&s=170667a&w=0&h=uvYr6IK1z1jAP9oRv7PC5TH9yZZT1wnJghPOy4PK20E=)
+![](https://m.media-amazon.com/images/I/716oj36RZ9L.jpg)
 
 ## Nossos Serviços
 
