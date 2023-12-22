@@ -7,6 +7,8 @@ title: Troca de Pneus
 
 A nossa oficina eoferece serviços para troca de pneus de automóveis. Estamos dedicados a oferecer serviços de qualidade para garantir a substituição eficiente e segura dos pneus do seu veículo.
 
+![](https://mboys.com.br/wp-content/uploads/2015/05/rodizio-de-pneus.jpg)
+
 ## Nossos Serviços
 
 ### Troca de Pneus
