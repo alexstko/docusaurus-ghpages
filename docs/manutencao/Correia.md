@@ -8,6 +8,8 @@ title:  Correia de Distribuição de Automóveis
 
 A nossa oficina é especializada em correias de distribuição de automóveis. Estamos comprometidos em oferecer serviços de qualidade para garantir o funcionamento eficiente do sistema de distribuição do seu veículo.
 
+![](https://www.cosmiauto.com/wp-content/uploads/2015/05/Kit-Distribuicao.jpg)
+
 ## Nossos Serviços
 
 ### Inspeção e Diagnóstico
