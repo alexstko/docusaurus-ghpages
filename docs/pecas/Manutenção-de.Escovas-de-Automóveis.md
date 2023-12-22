@@ -7,6 +7,8 @@ title:  Escovas de Automóveis
 
 A nossa oficina oferece serviços em manutenção de escovas de automóveis. Estamos comprometidos em oferecer serviços para garantir a eficiência e segurança do sistema de limpadores de para-brisa do seu veículo.
 
+![](https://storage.googleapis.com/club-manual/optimize/manual_images/14967/retina/s2.jpg)
+
 ## Nossos Serviços
 
 ### Substituição de Escovas
