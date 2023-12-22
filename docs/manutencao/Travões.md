@@ -7,6 +7,8 @@ title: Serviços de Travões
 
 A nossa oficina oferece serviços em  sistemas de travões de automóveis. Estamos comprometidos em oferecer uma variedade de serviços para garantir a segurança e o bom funcionamento dos freios do seu veículo.
 
+![](https://www.fixngo.pt/wp-content/uploads/2022/03/shutterstock_1092095024.jpg)
+
 ## Nossos Serviços
 
 ### Diagnóstico Completo
