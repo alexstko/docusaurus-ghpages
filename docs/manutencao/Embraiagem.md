@@ -6,6 +6,8 @@ title: Embreagem de Automóveis
 # Embreagem de Automóveis
 A nossa oficina oferece serviços em embreagens de automóveis. Estamos comprometidos em oferecer serviços de qualidade para garantir o bom funcionamento da embreagem do seu veículo.
 
+![](https://www.karvi.com.br/blog/wp-content/uploads/2022/11/sistema-de-embreagem-do-carro.png)
+
 ## Nossos Serviços
 
 ### Diagnóstico da Embreagem
