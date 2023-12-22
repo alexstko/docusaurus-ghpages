@@ -7,6 +7,8 @@ title: Serviços de Alinhamento e Balanceamento de Pneus
 
 A nossa oficina eferece serviços em alinhamento e balanceamento de pneus de automóveis. Estamos comprometidos em oferecer serviços que garantam a estabilidade, segurança e durabilidade dos pneus do seu veículo.
 
+![](https://th.bing.com/th/id/OIP.9N4la4RZKMOj9a-_-aWMCAHaE8?rs=1&pid=ImgDetMain)
+
 ## Nossos Serviços
 
 ### Alinhamento de Direção
