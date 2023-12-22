@@ -7,6 +7,8 @@ title: Serviços de Pressurização e Calibragem de Pneus
 
 A nossa oficina oferce serviços em pressurização e calibragem de pneus de automóveis. Estamos empenhados em oferecer serviços precisos para manter a pressão correta nos pneus do seu veículo, garantindo segurança e desempenho adequado.
 
+![](https://fordbilar.com/wp-content/uploads/2023/05/image523.jpg)
+
 ## Nossos Serviços
 
 ### Verificação de Pressão
